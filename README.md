@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# WELCOME TO ONLINE MUSIC STORE. 
+(Front-end React, Back-end Spring, DB MySQL)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
